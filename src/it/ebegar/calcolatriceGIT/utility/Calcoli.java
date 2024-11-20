@@ -7,4 +7,7 @@ public class Calcoli {
         return a+b;
     }
 
+    // PV aggiungo moltiplicazione
+    public static int moltiplicazione(int a, int b) { return a * b; }
+
 }
