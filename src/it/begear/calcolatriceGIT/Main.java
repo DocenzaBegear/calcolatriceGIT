@@ -9,8 +9,10 @@ public class Main {
 
         int a = 1;
         int b = 2;
+        int c  = 10;
 
         System.out.println("Somma: " + Calcoli.somma(a,b));
+        System.out.println("Moltiplicazione = " + Calcoli.moltiplicazione(a, b, c));
 
     }
 }

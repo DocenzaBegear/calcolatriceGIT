@@ -7,4 +7,9 @@ public class Calcoli {
         return a+b;
     }
 
+    //MB aggiunto metodo moltiplicazione 3 interi
+    public static int moltiplicazione(int a, int b, int c) {
+        return a * b * c;
+
+    }
 }
