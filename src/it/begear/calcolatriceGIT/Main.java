@@ -10,7 +10,11 @@ public class Main {
         int a = 1;
         int b = 2;
 
-        System.out.println("Somma: " + Calcoli.somma(a,b));
+        int c = 3;
+        int d = 4;
+        int e = 5;
 
+        System.out.println("Somma di due numeri: " + Calcoli.somma(a, b));
+        System.out.println("Somma di cinque numeri: " + Calcoli.somma(a, b, c, d, e));
     }
 }
