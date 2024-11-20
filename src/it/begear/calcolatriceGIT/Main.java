@@ -11,6 +11,7 @@ public class Main {
         int b = 2;
 
         System.out.println("Somma: " + Calcoli.somma(a,b));
+        System.out.println("Moltiplicazione: " + Calcoli.moltiplicazione(a,b));
 
     }
 }
